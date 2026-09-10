@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 DevOpsLesson — Learn DevOps by Doing
+# 🚀 DevOpsLesson (Learn DevOps by Doing)
 
 ### Free, hands-on DevOps tutorials, interactive browser playgrounds, roadmaps & cheatsheets
 
-**Master Docker, Kubernetes, Terraform, CI/CD, AWS, Git & Linux — by typing real commands, not watching videos.**
+**Master Docker, Kubernetes, Terraform, CI/CD, AWS, Git & Linux by typing real commands, not watching videos.**
 
 [![Website](https://img.shields.io/badge/Website-devopslesson.com-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devopslesson.com)
 [![Tutorials](https://img.shields.io/badge/250%2B-Free%20Tutorials-3b82f6?style=for-the-badge)](https://devopslesson.com/tutorials)
@@ -20,7 +20,7 @@
 
 ---
 
-> **⭐ If this hub helps you learn DevOps, please star the repo** — it helps other engineers discover these free resources.
+> **⭐ If this hub helps you learn DevOps, please star the repo**. It helps other engineers discover these free resources.
 
 ## 📋 Table of Contents
 

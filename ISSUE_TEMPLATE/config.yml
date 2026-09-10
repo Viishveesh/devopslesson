@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🌐 DevOpsLesson Website
+    url: https://devopslesson.com
+    about: Browse all free tutorials, playgrounds, and roadmaps.
+  - name: 💬 Contact
+    url: https://devopslesson.com/contact
+    about: General questions and feedback.
